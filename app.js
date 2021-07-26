@@ -52,8 +52,6 @@ document.write("None");
 }
 statement();
 
-
-
 function rate()
 {
   var stars = prompt("How Many Stars Do You Are Rate My Website");
